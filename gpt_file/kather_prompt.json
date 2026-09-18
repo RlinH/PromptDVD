@@ -1,0 +1,83 @@
+{
+    "adipose tissue": [
+        "Adipose tissue stores fat as energy.",
+        "ADI refers to fat tissue, providing energy and cushioning.",
+        "Adipose tissue contains large, round fat cells.",
+        "ADI tissue appears as clusters of fat cells under the microscope.",
+        "Adipose tissue looks like clear cells with displaced nuclei due to fat.",
+        "Under the microscope, adipose tissue appears pale due to stored fat.",
+        "Adipose tissue also releases hormones like leptin."
+    ],
+    "background": [
+        "BACK refers to non-specific tissue or empty space in images.",
+        "The background includes areas without specific structures.",
+        "BACK represents areas not occupied by main tissue.",
+        "Background often appears pale or unstained in images.",
+        "BACK surrounds the tissue of interest in pathology slides.",
+        "The background provides contrast to tissue structures.",
+        "In slides, the background highlights cellular details."
+    ],
+    "debris": [
+        "DEB refers to cell remnants in pathology samples.",
+        "Debris includes cellular remnants or degraded material.",
+        "DEB appears as irregular dark particles in sections.",
+        "Debris can indicate cell death or tissue breakdown.",
+        "DEB is fragmented material scattered in the tissue.",
+        "Debris consists of dead cells and matrix fragments.",
+        "Debris can show signs of a previous immune response."
+    ],
+    "lymphocytes": [
+        "LYM refers to lymphocytes, a type of white blood cell.",
+        "Lymphocytes are small cells with large nuclei.",
+        "LYM cells play a key role in the immune response.",
+        "Under a microscope, lymphocytes are dark-staining cells.",
+        "LYM cells are often found in clusters in immune tissues.",
+        "Lymphocytes have round shapes with dense nuclei.",
+        "Lymphocytes gather around infection or tumor sites."
+    ],
+    "mucus": [
+        "MUC refers to mucus, a thick substance from mucous membranes.",
+        "Mucus serves as a protective barrier in tissues.",
+        "MUC appears as light-staining material in slides.",
+        "Mucus often indicates the presence of glands or goblet cells.",
+        "MUC represents secretions in the digestive and respiratory tracts.",
+        "Mucus traps pathogens and particles in the body.",
+        "Mucus increases during infection, acting as a barrier."
+    ],
+    "smooth muscle": [
+        "MUS refers to smooth muscle, an involuntary muscle type.",
+        "Smooth muscle is found in organs like intestines and vessels.",
+        "MUS consists of spindle-shaped cells with central nuclei.",
+        "Under the microscope, smooth muscle has elongated, tapering cells.",
+        "MUS controls movements like digestion and blood flow.",
+        "Smooth muscle contracts slowly without visible striations.",
+        "Smooth muscle regulates blood flow and digestion with rhythmic contractions."
+    ],
+    "normal colon mucosa": [
+        "NORM refers to healthy colon mucosa.",
+        "Normal colon mucosa consists of a single layer of epithelial cells.",
+        "NORM appears as well-organized crypts with regular lining.",
+        "In pathology, normal mucosa is used for comparison with diseased tissue.",
+        "NORM has a uniform appearance without inflammation.",
+        "Normal colon mucosa has healthy epithelial cells and crypts.",
+        "Goblet cells in normal mucosa secrete mucus for protection."
+    ],
+    "cancer-associated stroma": [
+        "STR refers to the tissue surrounding a tumor.",
+        "Cancer-associated stroma contains fibroblasts and immune cells.",
+        "STR plays a role in tumor growth and progression.",
+        "In images, cancer stroma appears as dense tissue around malignant cells.",
+        "STR influences cancer behavior through signaling.",
+        "Cancer stroma is more fibrous and disorganized than normal tissue.",
+        "Stroma interacts with tumor cells, helping survival and spread."
+    ],
+    "colorectal adenocarcinoma epithelium": [
+        "TUM refers to the malignant cells in colorectal cancer.",
+        "Colorectal adenocarcinoma has irregular glandular structures.",
+        "TUM appears as disorganized, abnormal formations.",
+        "TUM tissue is identified by its abnormal cell structure and growth.",
+        "TUM tissue often shows increased cell division and atypical nuclei.",
+        "Colorectal adenocarcinoma has dysplastic cells forming irregular glands.",
+        "TUM shows a loss of normal structure, with invasive growth."
+    ]
+}

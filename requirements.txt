@@ -1,0 +1,13 @@
+torch
+torchvision
+ftfy
+regex
+tqdm
+yacs
+gdown
+scikit-learn
+pandas
+Pillow
+scipy
+tabulate
+future

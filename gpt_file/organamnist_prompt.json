@@ -1,0 +1,101 @@
+{
+    "bladder": [
+        "Bladder is a round, hollow organ that stores urine.",
+        "Bladder appears as a smooth, sac-like structure under the microscope.",
+        "Bladder has a thin lining of epithelial cells inside.",
+        "The Bladder is a flexible, balloon-like organ.",
+        "Bladder looks like a large, rounded sac in cross-section.",
+        "Bladder's walls are smooth and stretchable.",
+        "Bladder has a pale, smooth appearance with a hollow center."
+    ],
+    "femur-left": [
+        "Femur-left is the long bone in the left thigh.",
+        "Femur-left appears thick and strong with a smooth surface.",
+        "Femur-left has a rounded head that connects to the hip.",
+        "Under the microscope, Femur-left shows a dense, solid structure.",
+        "Femur-left has a long, straight shaft with a slight curve.",
+        "Femur-left looks sturdy and is the largest bone in the body.",
+        "Femur-left is cylindrical and connects to the knee joint."
+    ],
+    "femur-right": [
+        "Femur-right is the long bone in the right thigh.",
+        "Femur-right looks thick and straight with a smooth surface.",
+        "Femur-right has a rounded head that fits into the right hip.",
+        "Under the microscope, Femur-right shows dense, compact bone tissue.",
+        "Femur-right appears long and slightly curved in the middle.",
+        "Femur-right is cylindrical and connects the hip to the knee.",
+        "Femur-right looks strong and supports the right leg."
+    ],
+    "heart": [
+        "Heart is a muscular organ with a rounded, cone-like shape.",
+        "Heart has four chambers visible in cross-section.",
+        "Heart appears thick-walled with striated muscle fibers.",
+        "Under the microscope, Heart shows tightly packed muscle cells.",
+        "Heart has a dense, muscular appearance with visible chambers.",
+        "Heart looks like a strong, pumping organ with thick walls.",
+        "Heart's surface is smooth, with visible blood vessels."
+    ],
+    "kidney-left": [
+        "Kidney-left is a bean-shaped organ located on the left side.",
+        "Kidney-left has a smooth, outer surface with a curved shape.",
+        "Kidney-left appears dense with visible filtration units inside.",
+        "Under the microscope, Kidney-left shows small, round filtering structures.",
+        "Kidney-left has a pale outer layer and darker inner regions.",
+        "Kidney-left is curved, with a notch called the hilum on the inner side.",
+        "Kidney-left looks like a bean, with filtering units spread throughout."
+    ],
+    "kidney-right": [
+        "Kidney-right is a bean-shaped organ located on the right side.",
+        "Kidney-right has a smooth, curved surface with a slight indent.",
+        "Under the microscope, Kidney-right shows filtration units spread throughout.",
+        "Kidney-right appears pale on the outside and darker inside.",
+        "Kidney-right has a dense structure with small filtering units.",
+        "Kidney-right looks like a curved bean with a smooth outer surface.",
+        "Kidney-right is a solid organ with visible filtering regions."
+    ],
+    "liver": [
+        "Liver is a large, solid organ with a smooth surface.",
+        "Liver appears dark red with a firm, dense structure.",
+        "Under the microscope, Liver shows small, hexagonal units called lobules.",
+        "Liver has a smooth, curved outer surface with visible blood vessels.",
+        "Liver is large and wedge-shaped, with a firm, dense texture.",
+        "Liver looks dark and solid, with small internal units for filtering.",
+        "Liver has a smooth, shiny appearance with blood vessels running through it."
+    ],
+    "lung-left": [
+        "Lung-left is a soft, spongy organ on the left side of the chest.",
+        "Lung-left appears pale with a light, airy texture.",
+        "Under the microscope, Lung-left shows small air sacs called alveoli.",
+        "Lung-left looks like a spongy, soft structure with a smooth surface.",
+        "Lung-left is divided into two main lobes.",
+        "Lung-left has a light, soft appearance and expands during breathing.",
+        "Lung-left looks pale and soft with visible air spaces inside."
+    ],
+    "lung-right": [
+        "Lung-right is a soft, spongy organ on the right side of the chest.",
+        "Lung-right appears pale with a light texture, divided into three lobes.",
+        "Under the microscope, Lung-right shows many small air sacs.",
+        "Lung-right has a spongy appearance with a smooth outer surface.",
+        "Lung-right looks soft and airy, with visible internal air spaces.",
+        "Lung-right is soft, light, and expands with each breath.",
+        "Lung-right appears pale with clear divisions between the lobes."
+    ],
+    "pancreas": [
+        "Pancreas is a long, flat organ behind the stomach.",
+        "Pancreas appears soft and slightly lobulated under the microscope.",
+        "Pancreas has small clusters of cells that produce enzymes and hormones.",
+        "Under the microscope, Pancreas shows small, round islets among dense tissue.",
+        "Pancreas looks lobulated with a slightly rough surface.",
+        "Pancreas has a pale appearance with visible clusters of cells inside.",
+        "Pancreas looks soft, with small units spread throughout for digestion and hormone production."
+    ],
+    "spleen": [
+        "Spleen is a soft, oval-shaped organ located near the stomach.",
+        "Spleen appears dark red with a smooth outer surface.",
+        "Under the microscope, Spleen shows small clusters of white blood cells.",
+        "Spleen has a spongy appearance with a dark, firm texture.",
+        "Spleen looks soft and dense, with a reddish-brown color.",
+        "Spleen is oval-shaped with a smooth, slightly shiny surface.",
+        "Spleen has a soft, spongy texture with internal immune cell clusters."
+    ]
+}

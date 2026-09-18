@@ -1,0 +1,74 @@
+{
+    "basophil": [
+        "Basophil has dark purple granules that cover most of the cell.",
+        "Basophil's nucleus is often hidden by the granules.",
+        "Basophil looks small and filled with dark granules.",
+        "Basophil has a round shape with large, irregular granules.",
+        "Basophil appears grainy under the microscope.",
+        "Basophil's granules are large and dark-staining.",
+        "Basophil has a lobed nucleus, but it's hard to see due to the granules."
+    ],
+    "eosinophil": [
+        "Eosinophil has bright red or orange granules.",
+        "Eosinophil's nucleus is bilobed, often shaped like sunglasses.",
+        "Eosinophil looks medium-sized with red-staining granules.",
+        "Eosinophil's granules are large and uniform in shape.",
+        "Eosinophil has a clear, round nucleus with surrounding red granules.",
+        "Eosinophil's bright red granules make it easy to identify.",
+        "Eosinophil appears under the microscope with red-orange cytoplasm."
+    ],
+    "erythroblast": [
+        "Erythroblast has a dark, round nucleus and little cytoplasm.",
+        "Erythroblast appears small with a dense central nucleus.",
+        "Erythroblast's cytoplasm looks blue under the microscope.",
+        "Erythroblast has a round shape with a dark-staining nucleus.",
+        "Erythroblast looks immature with a large, round nucleus.",
+        "Erythroblast has less cytoplasm compared to its large nucleus.",
+        "Erythroblast appears purple due to its dense nucleus and blue cytoplasm."
+    ],
+    "immature granulocytes": [
+        "Immature granulocytes have large, oval nuclei.",
+        "Immature granulocytes show light-staining cytoplasm with few granules.",
+        "Immature granulocytes, like myelocytes, have round nuclei and pale cytoplasm.",
+        "Immature granulocytes have kidney-shaped or round nuclei.",
+        "Immature granulocytes like promyelocytes have some scattered granules.",
+        "Immature granulocytes look larger than mature ones with less distinct granules.",
+        "Immature granulocytes have pale, lightly granulated cytoplasm."
+    ],
+    "lymphocyte": [
+        "Lymphocyte is small with a large, round nucleus.",
+        "Lymphocyte has very little cytoplasm around the nucleus.",
+        "Lymphocyte looks dark due to its dense nucleus.",
+        "Lymphocyte's nucleus is smooth and takes up most of the cell.",
+        "Lymphocyte appears as a small, round cell under the microscope.",
+        "Lymphocyte has a dark-staining, round nucleus with minimal cytoplasm.",
+        "Lymphocyte is easily recognized by its round shape and large nucleus."
+    ],
+    "monocyte": [
+        "Monocyte is large with a kidney-shaped nucleus.",
+        "Monocyte has a lot of light-staining cytoplasm around the nucleus.",
+        "Monocyte's nucleus is curved or folded.",
+        "Monocyte appears pale with a large, clear nucleus.",
+        "Monocyte has a distinctive curved nucleus and light cytoplasm.",
+        "Monocyte looks large and pale with an irregular nucleus.",
+        "Monocyte's nucleus is horseshoe-shaped with surrounding pale cytoplasm."
+    ],
+    "neutrophil": [
+        "Neutrophil has a multi-lobed nucleus.",
+        "Neutrophil's cytoplasm has small, pale granules.",
+        "Neutrophil's nucleus has 3-5 lobes, giving it a segmented look.",
+        "Neutrophil appears medium-sized with faint granules.",
+        "Neutrophil's granules are small and lightly stain the cytoplasm.",
+        "Neutrophil looks pink under the microscope due to its light granules.",
+        "Neutrophil is recognized by its lobed nucleus and light pink cytoplasm."
+    ],
+    "platelet": [
+        "Platelet is a small, irregular fragment with no nucleus.",
+        "Platelet appears as tiny purple dots in blood smears.",
+        "Platelet is much smaller than other blood cells.",
+        "Platelet looks like a small, irregularly shaped fragment.",
+        "Platelet is scattered as small purple-staining fragments.",
+        "Platelet is recognized by its tiny size and lack of nucleus.",
+        "Platelet looks irregular and grainy under the microscope."
+    ]
+}

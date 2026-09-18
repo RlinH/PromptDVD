@@ -1,0 +1,74 @@
+{
+    "tumour epithelium": [
+        "Tumour epithelium appears as dense clusters of irregular cells.",
+        "Tumour epithelium shows large, abnormal cells with varying shapes.",
+        "Under the microscope, tumour epithelium has dark-staining nuclei.",
+        "Tumour epithelium looks disorganized, with cells growing in clumps.",
+        "Tumour epithelium appears as thick layers of irregularly shaped cells.",
+        "Tumour epithelium cells have larger nuclei and denser cytoplasm.",
+        "Tumour epithelium looks chaotic, with cells tightly packed together."
+    ],
+    "simple stroma": [
+        "Simple stroma appears as a loose network of connective tissue.",
+        "Simple stroma shows thin, elongated cells scattered in the background.",
+        "Under the microscope, simple stroma looks pale with few cells.",
+        "Simple stroma has a light, fibrous appearance with scattered cells.",
+        "Simple stroma looks like a soft, supportive tissue with thin fibers.",
+        "Simple stroma appears as a background matrix for other cells.",
+        "Simple stroma shows a loose arrangement of fibers and small cells."
+    ],
+    "cancer-associated stroma": [
+        "Cancer-associated stroma appears as fibrous tissue containing scattered tumour and immune cells.",
+        "Cancer-associated stroma shows a mix of connective tissue with single tumour or immune cells.",
+        "Under the microscope, cancer-associated stroma contains isolated tumour cells and immune cells within the stroma.",
+        "Cancer-associated stroma looks dense with fibres and occasional single tumour or immune cells.",
+        "Cancer-associated stroma has a fibrous appearance with single tumour cells spread throughout.",
+        "Cancer-associated stroma shows scattered immune cells and tumour cells within the connective tissue.",
+        "Cancer-associated stroma appears as thick connective tissue containing isolated tumour and immune cells."
+    ],
+    "immune cell conglomerates": [
+        "Immune cell conglomerates appear as clusters of small, round cells.",
+        "Immune cell conglomerates look dense with tightly packed immune cells.",
+        "Under the microscope, immune cell conglomerates show small, dark-staining nuclei.",
+        "Immune cell conglomerates appear as compact clusters within tissue.",
+        "Immune cell conglomerates look like small, dark circles in a dense group.",
+        "Immune cell conglomerates are round collections of immune cells in tissue.",
+        "Immune cell conglomerates show a dense, dark appearance under the microscope."
+    ],
+    "debris and mucus": [
+        "Debris and mucus appear as irregular dark and pale areas in tissue.",
+        "Debris and mucus look scattered, with uneven particles and pale regions.",
+        "Under the microscope, debris and mucus appear as fragmented material.",
+        "Debris and mucus look like clumps of broken cells and light-staining material.",
+        "Debris and mucus appear irregular, with scattered dark spots in tissue.",
+        "Debris and mucus show uneven areas of cellular remnants and light mucus.",
+        "Debris and mucus appear as fragmented, mixed material scattered across the tissue."
+    ],
+    "mucosal glands": [
+        "Mucosal glands appear as round, tubular structures in the tissue lining.",
+        "Mucosal glands show clear, circular shapes with visible ducts.",
+        "Under the microscope, mucosal glands appear as tightly packed glandular cells.",
+        "Mucosal glands look round and organized, with clear boundaries.",
+        "Mucosal glands show pale staining with dark nuclei in a regular pattern.",
+        "Mucosal glands appear as small, rounded clusters in the mucosal layer.",
+        "Mucosal glands form circular, well-organized structures in the lining tissue."
+    ],
+    "adipose tissue": [
+        "Adipose tissue appears as large, clear cells with small, dark nuclei.",
+        "Adipose tissue looks pale with round, empty-looking cells under the microscope.",
+        "Under the microscope, adipose tissue shows clear, balloon-like cells.",
+        "Adipose tissue has a light, bubbly appearance due to stored fat.",
+        "Adipose tissue cells appear round with thin cell walls and clear centers.",
+        "Adipose tissue looks like clusters of clear, round cells.",
+        "Adipose tissue shows large, round cells with small, displaced nuclei."
+    ],
+    "background": [
+        "08_EMPTY background appears as pale or unstained areas in the slide.",
+        "08_EMPTY background looks like clear space with no specific structures.",
+        "Under the microscope, 08_EMPTY background appears as blank, pale regions.",
+        "08_EMPTY background provides contrast to the tissue structures around it.",
+        "08_EMPTY background looks empty, with no visible cells or tissue.",
+        "08_EMPTY background appears as a light, featureless space in the image.",
+        "08_EMPTY background shows no staining or cellular components under the microscope."
+    ]
+}

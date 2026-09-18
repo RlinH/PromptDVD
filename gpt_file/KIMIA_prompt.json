@@ -1,0 +1,129 @@
+
+{
+    "PAS Squamous epithelium": [
+        "PAS Squamous epithelium appears as flat, scale-like cells.",
+        "PAS Squamous epithelium shows a uniform layer of cells with clear edges.",
+        "Under PAS staining, Squamous epithelium has a pink to purple tint.",
+        "PAS Squamous epithelium looks like thin, flattened cells arranged in layers.",
+        "Squamous epithelium under PAS stain highlights the cell boundaries.",
+        "PAS Squamous epithelium appears smooth and tightly packed.",
+        "Squamous epithelium stained by PAS looks thin and evenly spread."
+    ],
+    "HE Glandular epithelium": [
+        "HE Glandular epithelium shows cells arranged in round or tubular structures.",
+        "Glandular epithelium under HE stain appears pink with round nuclei.",
+        "HE Glandular epithelium forms circular or elongated glands.",
+        "Glandular epithelium appears well-organized with visible cell borders in HE stain.",
+        "HE Glandular epithelium looks dense with cells forming gland-like structures.",
+        "Under HE staining, Glandular epithelium is pink with darker nuclei.",
+        "HE Glandular epithelium appears as small glands or tubes lined with cells."
+    ],
+    "IHC Keratin": [
+        "IHC Keratin shows strong brown staining in epithelial cells.",
+        "Keratin under IHC staining highlights the cytoskeleton of epithelial cells.",
+        "IHC Keratin appears as dark brown lines in epithelial tissue.",
+        "Keratin-positive cells under IHC are strongly stained in dark brown.",
+        "IHC Keratin highlights the structure of epithelial cells with clear borders.",
+        "Under IHC staining, Keratin shows a network of brown fibers in epithelial layers.",
+        "IHC Keratin appears as a brown mesh-like structure in epithelial cells."
+    ],
+    "PAS Glandular epithelium": [
+        "PAS Glandular epithelium shows pink to purple gland structures.",
+        "Glandular epithelium under PAS stain appears round with defined borders.",
+        "PAS Glandular epithelium looks like small, circular glands filled with mucus.",
+        "Under PAS staining, Glandular epithelium shows a mix of pink cells and mucus.",
+        "PAS Glandular epithelium forms distinct, rounded glands.",
+        "Glandular epithelium stained by PAS appears with clear gland structures.",
+        "PAS Glandular epithelium appears compact and surrounded by pale staining."
+    ],
+    "HE Smooth muscle tissue": [
+        "HE Smooth muscle tissue appears as long, spindle-shaped cells.",
+        "Smooth muscle tissue under HE stain looks pink with elongated nuclei.",
+        "HE Smooth muscle shows closely packed, parallel fibers.",
+        "Smooth muscle tissue in HE stain appears smooth and uniform.",
+        "HE Smooth muscle tissue looks dense with elongated, cigar-shaped nuclei.",
+        "Smooth muscle tissue appears as pink, wavy fibers under HE stain.",
+        "HE Smooth muscle tissue shows a regular, parallel arrangement of fibers."
+    ],
+    "HE Adipose tissue": [
+        "HE Adipose tissue appears as large, clear cells with small, dark nuclei.",
+        "Adipose tissue under HE stain looks like empty bubbles due to fat removal.",
+        "HE Adipose tissue has a pale appearance with thin cell walls.",
+        "Adipose tissue in HE stain shows large, round cells with displaced nuclei.",
+        "HE Adipose tissue appears light with clear cell boundaries.",
+        "Under HE staining, Adipose tissue looks like a cluster of clear cells.",
+        "HE Adipose tissue shows large, round cells filled with fat."
+    ],
+    "HE Epithelium": [
+        "HE Epithelium appears as a thin, pink layer of cells.",
+        "Epithelium under HE stain shows clear, uniform cell borders.",
+        "HE Epithelium forms a smooth lining with evenly spaced cells.",
+        "Epithelium in HE stain appears pink with dark-staining nuclei.",
+        "HE Epithelium looks compact, forming a protective layer of cells.",
+        "Under HE staining, Epithelium is seen as a well-organized sheet of cells.",
+        "HE Epithelium appears smooth with densely packed cells."
+    ],
+    "IHC Epithelial keratin": [
+        "IHC Epithelial keratin appears as dark brown staining in epithelial layers.",
+        "Keratin in epithelial cells shows strong brown staining under IHC.",
+        "IHC Epithelial keratin highlights the cytoskeleton with dark brown fibers.",
+        "Epithelial keratin under IHC appears as a mesh of brown-stained cells.",
+        "IHC Epithelial keratin shows strong staining in the outer epithelial layers.",
+        "Under IHC staining, Epithelial keratin highlights cell borders and structures.",
+        "IHC Epithelial keratin shows dark brown lines outlining epithelial cells."
+    ],
+    "HE Fibrous connective tissue": [
+        "HE Fibrous connective tissue shows wavy, pink collagen fibers.",
+        "Fibrous connective tissue under HE stain appears dense with wavy lines.",
+        "HE Fibrous connective tissue looks like a network of thin, pink fibers.",
+        "Fibrous connective tissue appears tightly packed under HE stain.",
+        "HE Fibrous connective tissue shows long, wavy fibers in a loose network.",
+        "Under HE staining, Fibrous connective tissue appears pink with visible fibers.",
+        "HE Fibrous connective tissue looks like wavy, interconnected fibers."
+    ],
+    "HE Sweat gland structure": [
+        "HE Sweat gland structure appears as coiled tubes in the dermis.",
+        "Sweat glands under HE stain look like round, tubular structures.",
+        "HE Sweat gland structure shows a coiled, circular appearance.",
+        "Sweat glands in HE stain appear pink with a clear, round shape.",
+        "HE Sweat gland structure forms distinct, coiled tubes in the tissue.",
+        "Under HE staining, Sweat glands look like small, tightly coiled tubes.",
+        "HE Sweat gland structure appears as pale, coiled tubes with pink cells."
+    ],
+    "IHC No positive signal, fibrous connective tissue": [
+        "IHC shows no positive signal in fibrous connective tissue.",
+        "Fibrous connective tissue appears unstained in IHC with no signal detected.",
+        "IHC shows no brown staining in fibrous connective tissue.",
+        "Fibrous connective tissue under IHC appears clear with no signal.",
+        "IHC reveals no positive signal in the fibrous connective tissue areas.",
+        "Under IHC, Fibrous connective tissue shows no dark staining.",
+        "IHC shows fibrous connective tissue as unstained and pale."
+    ],
+    "HE Collagen fibers": [
+        "HE Collagen fibers appear as thick, wavy pink strands.",
+        "Collagen fibers in HE stain are long, wavy, and densely packed.",
+        "HE Collagen fibers show a strong pink color with a wavy pattern.",
+        "Under HE staining, Collagen fibers appear thick and wavy.",
+        "HE Collagen fibers form a network of long, pink strands.",
+        "Collagen fibers in HE stain are thick and form a wavy, interconnected network.",
+        "HE Collagen fibers appear dense with a smooth, wavy texture."
+    ],
+    "HE Lymphatic tissue": [
+        "HE Lymphatic tissue appears as clusters of small, dark-staining cells.",
+        "Lymphatic tissue under HE stain shows dense, round cell clusters.",
+        "HE Lymphatic tissue appears as a pink background with small, dark cells.",
+        "Lymphatic tissue in HE stain looks like a compact, dense cluster of cells.",
+        "HE Lymphatic tissue shows dark nuclei with pale cytoplasm.",
+        "Under HE staining, Lymphatic tissue appears as tightly packed cell clusters.",
+        "HE Lymphatic tissue appears dense with small, round cells."
+    ],
+    "IHC Lymphatic tissue": [
+        "IHC Lymphatic tissue shows dark brown staining in immune cells.",
+        "Lymphatic tissue under IHC appears as brown-stained clusters of cells.",
+        "IHC Lymphatic tissue shows strong brown staining in small cell clusters.",
+        "Under IHC, Lymphatic tissue appears as dense clusters with dark brown staining.",
+        "IHC Lymphatic tissue highlights immune cells with strong brown staining.",
+        "Lymphatic tissue under IHC stain shows distinct dark brown cell clusters.",
+        "IHC Lymphatic tissue shows strong brown signals in small, round cells."
+    ]
+}

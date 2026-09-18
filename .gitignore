@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# training artifacts
+output/
+*.pt
+*.pth
+*.ckpt
+*.pkl
+
+# local data / weights
+data/
+MedDataset/
+pretrained/plip/*.pt
+pretrained/plip/*.pth
+.env
+*.log

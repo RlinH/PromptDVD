@@ -1,0 +1,74 @@
+{
+    "Collecting Duct, Connecting Tubule": [
+        "Duct cells are tube-like structures that collect fluid.",
+        "Duct appears as long, thin tubes under the microscope.",
+        "Duct cells have clear borders and form collecting pathways.",
+        "The Duct is lined by epithelial cells with a smooth appearance.",
+        "Under the microscope, Ducts appear as hollow tubes.",
+        "Duct cells form a network to carry urine to larger ducts.",
+        "Duct cells look like small tubes branching through the kidney."
+    ],
+    "Distal Convoluted Tubule": [
+        "Convoluted_Tubule cells are coiled and appear twisted under the microscope.",
+        "Convoluted_Tubule has a round, dense structure due to its winding shape.",
+        "Convoluted_Tubule cells have clear, cuboidal shapes lining the tubule.",
+        "The Convoluted_Tubule appears compact and twisted in kidney sections.",
+        "Convoluted_Tubule looks like a tightly coiled tube with clear cell walls.",
+        "Convoluted_Tubule cells are packed closely together, forming a coiled structure.",
+        "Under the microscope, Convoluted_Tubule appears as a thick, twisted tube."
+    ],
+    "Glomerular endothelial cells": [
+        "Glomerular cells form part of the glomerulus, a round structure in the kidney.",
+        "Glomerular cells look like a dense network of capillaries.",
+        "The Glomerular endothelium forms thin layers surrounding capillaries.",
+        "Glomerular cells are small and tightly packed in a circular arrangement.",
+        "Under the microscope, Glomerular cells appear as a ball of tiny blood vessels.",
+        "Glomerular cells are thin and form a delicate filtration barrier.",
+        "Glomerular endothelium looks like a web of fine capillaries."
+    ],
+    "Interstitial endothelial cells": [
+        "Interstitial cells are found between other kidney structures.",
+        "Interstitial cells look scattered and irregular in shape.",
+        "The Interstitial space contains small, flat endothelial cells.",
+        "Interstitial cells appear spread out between the tubules and vessels.",
+        "Under the microscope, Interstitial cells look like small, thin cells between larger structures.",
+        "Interstitial cells form a loose network in the kidney tissue.",
+        "Interstitial cells are pale and spaced apart between other kidney components."
+    ],
+    "Leukocytes": [
+        "Leukocytes are round, white blood cells found in the kidney.",
+        "Leukocytes look small and round with dark-staining nuclei.",
+        "Leukocytes are scattered throughout kidney tissue.",
+        "Under the microscope, Leukocytes appear as small, round cells with a large nucleus.",
+        "Leukocytes are easily seen as dark spots in the tissue.",
+        "Leukocytes are round cells that migrate through kidney tissue.",
+        "Leukocytes appear as small, distinct cells with dark centers."
+    ],
+    "Podocytes": [
+        "Podocytes are large, star-shaped cells in the kidney.",
+        "Podocytes have long extensions that wrap around capillaries.",
+        "Podocytes form a delicate, web-like structure in the glomerulus.",
+        "Under the microscope, Podocytes look like cells with many branching arms.",
+        "Podocytes surround the glomerular capillaries, creating a filter.",
+        "Podocytes appear as large cells with thin, branching extensions.",
+        "Podocytes look like star-shaped cells that cling to capillary walls."
+    ],
+    "Proximal Tubule Segments": [
+        "Segments of the proximal tubule are long, curved sections in the kidney.",
+        "Segments have thick walls with cells that line the tubules.",
+        "Under the microscope, Segments look like curved tubes with a dense lining.",
+        "Segments are part of the proximal tubule and appear thick and twisted.",
+        "Segments have a distinct tubular shape, with clear boundaries between cells.",
+        "Proximal Tubule Segments appear as long tubes with dense, cuboidal cells.",
+        "Segments look like curved tubes with cells packed closely together."
+    ],
+    "Thick Ascending Limb": [
+        "Limb cells form part of the thick ascending limb of the nephron.",
+        "Limb appears as a thick, straight tube under the microscope.",
+        "Limb cells are tightly packed, forming a thick wall.",
+        "The Thick Ascending Limb looks like a straight tube with a dense lining.",
+        "Limb cells have a clear structure, forming part of the nephron's loop.",
+        "Under the microscope, Limb appears as a thick, elongated section of the nephron.",
+        "Limb cells are arranged in a straight, tightly packed tube."
+    ]
+}

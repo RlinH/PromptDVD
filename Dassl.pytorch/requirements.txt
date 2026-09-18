@@ -1,0 +1,9 @@
+yacs
+gdown
+future
+scipy
+scikit-learn
+tqdm
+ftfy
+regex
+tabulate

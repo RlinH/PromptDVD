@@ -1,0 +1,20 @@
+{
+    "benign": [
+        "An H&E image of benign tissue shows well-organized cells with uniform appearance.",
+        "Benign tissue appears with clearly defined cell borders and regular structures.",
+        "In H&E, benign tissue displays smooth, even layers of cells with normal nuclei.",
+        "Benign tissue looks orderly, with cells of consistent size and shape.",
+        "Benign tissue appears as a well-structured area, with no signs of abnormal growth.",
+        "H&E staining highlights the regular, controlled growth pattern of benign tissue.",
+        "Benign tissue shows no signs of disorganization or abnormal cell division."
+    ],
+    "malignant": [
+        "An H&E image of malignant tissue shows disorganized, irregular cell growth.",
+        "Malignant tissue appears with distorted cell shapes and varying sizes.",
+        "In H&E, malignant tissue displays dark-staining nuclei and uneven cell borders.",
+        "Malignant tissue looks chaotic, with cells growing in an uncontrolled pattern.",
+        "Malignant tissue appears as a dense mass of abnormal cells under the microscope.",
+        "H&E staining highlights the aggressive, irregular nature of malignant tissue.",
+        "Malignant tissue shows rapid cell division, with irregular structures and poorly defined borders."
+    ]
+}
