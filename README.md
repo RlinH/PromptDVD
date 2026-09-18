@@ -1,5 +1,5 @@
 # PromptDVD
-
+Fine-grained Alignment in Medical Pathology Vision-Language Models via Variational Distillation
 病理图像分类的 **PromptDVD** 核心代码。
 
 **PromptDVD 原名 VcdPrompt**，写作阶段更名为 PromptDVD（DVD）。二者指同一方法；仓库中 trainer 类名仍为 `VcdPrompt`，这是历史实现名，不是另一套算法。
