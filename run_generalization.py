@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""VcdPrompt Base-to-New generalization on Kather / Colorectal / BloodMNIST / KIMIA."""
+"""PromptDVD (formerly VcdPrompt) Base-to-New on Kather / Colorectal / BloodMNIST / KIMIA."""
 import argparse
 import os
 import subprocess

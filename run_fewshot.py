@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""VcdPrompt Few-Shot experiments on Kather / Colorectal / BloodMNIST / KIMIA."""
+"""PromptDVD (formerly VcdPrompt) Few-Shot on Kather / Colorectal / BloodMNIST / KIMIA."""
 import argparse
 import os
 import subprocess

@@ -1,23 +1,29 @@
-# VcdPrompt
+# PromptDVD
 
-病理图像分类的 **Visual-Concept Distillation Prompt Learning** 核心代码。
+病理图像分类的 **PromptDVD** 核心代码。
 
-本仓库从实验工程中抽出可独立运行的训练代码，不包含权重、数据集、中间实验结果，以及 ATPrompt / DPC / TextRefiner 等对比方法。
+**PromptDVD 原名 VcdPrompt**，写作阶段更名为 PromptDVD（DVD）。二者指同一方法；仓库中 trainer 类名仍为 `VcdPrompt`，这是历史实现名，不是另一套算法。
+
+本仓库从实验工程抽出可独立运行的训练代码，不包含权重、数据集、中间结果，以及 ATPrompt / DPC / TextRefiner 等对比方法。
 
 ## 方法概览
 
-VcdPrompt 在多模态 prompt 上引入视觉概念蒸馏与 Information Bottleneck（IB）：
+PromptDVD 在多模态 prompt 上引入 LLM 类别描述、视觉–文本约束，以及 Inner / Outer 双环的 variational distillation 与 memory bank：
 
-- `trainers/vcdprompt.py`：完整模型（含 IB）
+![PromptDVD framework](assets/framework.png)
+
+- `trainers/vcdprompt.py`：完整 PromptDVD 模型（含 IB）
 - `trainers/vcdprompt_lambda.py`：`VcdPromptLambda`，可单独调节 distill / VSD 权重
 - `trainers/vcdprompt_no_ib.py`：`VcdPromptNoIB`，将 IB 替换为 Identity
+
+训练时请使用 `--trainer VcdPrompt`（即 PromptDVD 完整模型）。
 
 ## 目录结构
 
 ```text
-VcdPrompt/
+PromptDVD/
 ├── train.py                      # 训练 / 评估入口
-├── trainers/                     # VcdPrompt 核心实现
+├── trainers/                     # PromptDVD 核心实现（类名仍为 VcdPrompt）
 ├── datasets/                     # 数据集读取（不含图像本身）
 ├── configs/
 │   ├── datasets/                 # 数据集配置
@@ -26,6 +32,7 @@ VcdPrompt/
 ├── gpt_file/                     # 类别描述 prompt
 ├── Dassl.pytorch/                # Dassl 训练框架
 ├── pretrained/plip/              # 放置 PLIP 权重
+├── assets/framework.png          # 方法示意图
 ├── run_fewshot.py
 ├── run_generalization.py
 └── run_cross_organ.py
@@ -36,8 +43,8 @@ VcdPrompt/
 建议 Python 3.8+，已安装 PyTorch（含 CUDA）。
 
 ```bash
-git clone https://github.com/RlinH/VcdPrompt.git
-cd VcdPrompt
+git clone https://github.com/RlinH/PromptDVD.git
+cd PromptDVD
 pip install -r requirements.txt
 pip install -e Dassl.pytorch
 ```
@@ -73,7 +80,7 @@ set MED_DATASET_ROOT=D:\MLDL\PromptDVD\MedDataset
 
 ## 训练
 
-在仓库根目录执行。
+在仓库根目录执行。`--trainer VcdPrompt` 即完整 PromptDVD。
 
 ### 单次训练（Kather few-shot）
 
@@ -84,7 +91,7 @@ python train.py ^
   --trainer VcdPrompt ^
   --dataset-config-file configs/datasets/kather.yaml ^
   --config-file configs/trainers/VcdPrompt/vcdprompt-Kather-fs.yaml ^
-  --output-dir output/fewshot/Kather/VcdPrompt ^
+  --output-dir output/fewshot/Kather/PromptDVD ^
   DATASET.NUM_SHOTS 5 DATASET.SUBSAMPLE_CLASSES all
 ```
 

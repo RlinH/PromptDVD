@@ -928,6 +928,8 @@ def gpt_clip_classifier(classnames, gpt_prompts, clip_model, dataset_name):
 
 @TRAINER_REGISTRY.register()
 class VcdPrompt(TrainerX):
+    """PromptDVD (formerly VcdPrompt). Class name kept for checkpoint / CLI compatibility."""
+
     def run_epoch(self):
 
         self.set_model_mode("train")

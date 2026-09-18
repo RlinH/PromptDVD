@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""VcdPrompt Cross-Organ: train on one PanNuke organ, evaluate on the rest."""
+"""PromptDVD (formerly VcdPrompt) Cross-Organ: train on one PanNuke organ, eval on the rest."""
 import argparse
 import os
 import subprocess
